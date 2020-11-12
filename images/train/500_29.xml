@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>500_29.jpeg</filename>
+	<path>C:\Users\patel\Desktop\Alay\projects\indian_currency_detector\images\500_29.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indian-500-ruppes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>4</ymin>
+			<xmax>449</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

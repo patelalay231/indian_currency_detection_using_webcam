@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20_28.jpeg</filename>
+	<path>C:\Users\patel\Desktop\Alay\projects\indian_currency_detector\images\20_28.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>937</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indian-200-ruppes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>23</ymin>
+			<xmax>937</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

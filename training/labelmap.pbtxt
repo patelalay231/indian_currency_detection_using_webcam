@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'indian-20-ruppes'
+}
+
+item {
+  id: 2
+  name: 'indian-50-ruppes'
+}
+
+item {
+  id: 3
+  name: 'indian-100-ruppes'
+}
+
+item {
+  id: 4
+  name: 'indian-200-ruppes'
+}
+
+item {
+  id: 5
+  name: 'indian-500-ruppes'
+}
+
+item {
+  id: 6
+  name: 'indian-2000-ruppes'
+}
